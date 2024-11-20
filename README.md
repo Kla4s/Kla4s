@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Kla4s
-- 👀 I’m interested in programming games and programs for pc.
+- 👋 Hi, I’m @XXXVAMANE
+- 👀 I’m interested in programming games and ai for pc.
 - 🌱 I’m currently learning program in visual studio.
-- 💞️ I’m looking to collaborate on CD Projekt and Rockstar Games.
-- 📫 How to reach me - I'm very hard to find, don't even try. LMAO
+- 💞️ I’m looking to learn about AI and also AI modeling.
